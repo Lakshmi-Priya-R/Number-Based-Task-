@@ -1,2 +1,2 @@
 # Number Based Tasks in C++
-![c++_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fc-beyond-next-level-programming-techniques-saurabh-anand&psig=AOvVaw1zh3LStx9CsbpSCrk8h-T1&ust=1731749534294000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICn6_eD3okDFQAAAAAdAAAAABAz)
+![c++_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREw-4m2OK8mWU5IAQ-8hhONnggwpQdl-PixHR1mNtzdnXfKLm9G-6y2tYu3_qUdpvJy6c&usqp=CAU)
